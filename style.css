@@ -93,6 +93,10 @@ button[disabled] {
   background: #c0c7cf;
 }
 
+.btn:hover{
+  opacity: .7;
+}
+
 .float-right {
   float: right;
 }
@@ -135,3 +139,8 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+ 
+body{
+  background-color: black; 
+}
+
