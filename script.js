@@ -30,16 +30,20 @@ function generatePassword(){
         if(specialCharPrompt && passwordString.length < lengthPrompt){passwordString += specialCharList[Math.floor(Math.random() * specialCharList.length)]}
 
 
-      }
+    }
 
       // load a new password 
         
-      
+
 
       // need to set a length check for the password after while loop iterates OR a for loop that transfers an appropriate length into a new array 
 // after the appropriate characters are compiled, we should split the string into an array to shuffle its characters
-    
-    return passwordString;
+    if(passwordString.length < 8){
+      return "Insufficient password length specified! Please retry.";
+    }else{
+       return passwordString;
+    }
+   
   
 }
 
