@@ -11,4 +11,4 @@ A simple password gnerator design to return a string based upon the specificatio
 
 ## Snapshot of Application 
 
-Screen Shot 2021-05-09 at 10.44.29 PM.png
+![](Screen%20Shot%202021-05-09 at%2010.44.29%20PM.png)
