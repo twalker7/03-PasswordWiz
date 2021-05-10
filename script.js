@@ -17,9 +17,6 @@ function generatePassword(){
   var passwordString = "";
   
     
-
-  //*prevent error with if statement ensuring that lengthPrompt is an integer between 8 and 128 (code directly below)
-  // if(lengthPrompt == 1 && lengthPrompt >= 8 && lengthPrompt <= 128){}
     //for loop that takes random indexes from each specified character type array (more from lowerAlphabet, upperAlphabet, and numberList than specialCharPrompt)
      
     while(passwordString.length < lengthPrompt){
@@ -32,19 +29,16 @@ function generatePassword(){
 
     }
 
-      // load a new password 
         
 
 
-      // need to set a length check for the password after while loop iterates OR a for loop that transfers an appropriate length into a new array 
-// after the appropriate characters are compiled, we should split the string into an array to shuffle its characters
+    // set a length check for the password
     if(passwordString.length < 8){
       return "Insufficient password length specified! Please retry.";
     }else{
        return passwordString;
     }
    
-  
 }
 
 // Get references to the #generate element
