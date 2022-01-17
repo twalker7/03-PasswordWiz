@@ -12,6 +12,17 @@ body,
   padding: 0;
 }
 
+.app-title{
+  color: #FFFFFF;
+  opacity: .5;
+}
+  
+
+
+.card-header{
+ text-align: center;
+}
+
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;
