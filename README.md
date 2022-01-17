@@ -1,7 +1,7 @@
 # The Password Wizard Password Generator 
 
 ## Description
-This password generator takes input from prompt and confirmation boxes, returning a string following the specifications chosen in the prompts.
+A password generator that prompts users for specific constraints and returns a string that adheres to each specification selected.
 
     
 
