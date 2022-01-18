@@ -19,11 +19,10 @@ HTML, CSS, JS
 ![](appscreenshot2.png)
 
 
-![](appscreenshot3.png)
 
 ## Website 
 
 https://twalker7.github.io/03-passwordWiz/
 
 ## Contribution 
-the program was largely already built as part of the curriculum at UCLA Extension Coding Bootcamp; my contribution only being in the creation of a function within the already-built Javascript file. Javascript code modified by Thomas Walker
+my contribution in this build was primarily the algorithm of functionality to produce a password string, as well as front end renovations after the minimum viable product was achieved and deployed. Javascript code modified by Thomas Walker
