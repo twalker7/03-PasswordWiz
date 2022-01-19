@@ -25,4 +25,4 @@ HTML, CSS, JS
 https://twalker7.github.io/03-passwordWiz/
 
 ## Contribution 
-my contribution in this build was primarily the algorithm of functionality to produce a password string, as well as front end renovations after the minimum viable product was achieved and deployed. Javascript code modified by Thomas Walker
+My contribution in this build was primarily the algorithm of functionality to produce a password string, as well as front end renovations after the minimum viable product was achieved and deployed. Javascript code modified by Thomas Walker
